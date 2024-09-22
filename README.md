@@ -1,4 +1,4 @@
-### Project Idea
+# Project Idea
 
 1. user can create a new help ticket
 2. Admin can reply on help ticket
@@ -7,7 +7,7 @@
 5. User can give ticket title and description
 6. User can upload a document like pdf or image
 
-### Table Structure
+# Table Structure
 
 1. Tickets
 
